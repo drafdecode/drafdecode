@@ -5,8 +5,8 @@
     <div>
         <p>
             Hi, I'm drafdecode</br>
-            <span style="margin-left:30px;">↠ FullStack Developer at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a></span></br>
-            <span style="margin-left:30px;">↠ Love Fat Cat.</span></br>
+<!--             <span style="margin-left:30px;">↠ FullStack Developer at <a href="https://soshouse.co.th" target="_blank">SOS Software House Co., Ltd.</a></span></br> -->
+<!--             <span style="margin-left:30px;">↠ Love Fat Cat.</span></br> -->
         </p>
     </div>
 </div>
